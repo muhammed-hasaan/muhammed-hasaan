@@ -73,7 +73,7 @@ muhammedhasaan09@gmail.com
 
 - 📫 How to reach me **muhammedhasaan09@gmail.com**
   
-- 📫 My Protfolio Website <a href="https://hasaandeveloper.netlify.app/">My protfolio</a>
+- 📫 My Protfolio Website <a href="https://hasaandeveloper.netlify.app/">hasaandeveloper.netlify.app</a>
 
 
 
