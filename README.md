@@ -77,19 +77,6 @@ muhammedhasaan09@gmail.com
 </p>
 
 ### My Skill Set:
-<table><tr><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
-I have Learnt HTML5 , CSS3 ,  React Js , React Native , Firebase , wordpress , react bootstrap and Bootstrap and working on JavaScript  
-</td></tr></table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-hasaan&show_icons=true&locale=en&layout=compact" alt="muhammed-hasaan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-hasaan&show_icons=true&locale=en" alt="muhammed-hasaan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-hasaan&" alt="muhammed-hasaan" /></p>
-<hr />
-
 
 
 
