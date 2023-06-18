@@ -85,7 +85,7 @@ I have Learnt HTML5 , CSS3 ,  React Js , React Native , Firebase , wordpress , r
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-hasaan&show_icons=true&locale=en&layout=compact" alt="muhammed-hasaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaanullah-khan&show_icons=true&locale=en" alt="muhammed-hasaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-hasaan&show_icons=true&locale=en" alt="muhammed-hasaan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-hasaan&" alt="muhammed-hasaan" /></p>
 <hr />
