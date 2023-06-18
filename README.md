@@ -64,8 +64,6 @@ muhammedhasaan09@gmail.com
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/muhammed-hasaan)
 
-- ⚡ MS WORD CLONE [Word / Azaan](https://github.com/AzaanUllah-Khan/Ms-Word)
-
 - 💬 Ask me about **Front End Development || Web Designing**
 
 - ⚡ Fun fact: I use tabs over spaces
@@ -75,26 +73,21 @@ muhammedhasaan09@gmail.com
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-hasaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-hasaan" height="30" width="40" /></a>
-<a href="https://leetcode.com/muhammedhasaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azaanullah-khan" height="30" width="40" /></a>
+<a href="https://leetcode.com/muhammedhasaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammed-hasaan" height="30" width="40" /></a>
 </p>
 
 ### My Skill Set:
 <table><tr><td valign="top" width="33%">
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+
 </td><td valign="top" width="33%">
-I have Learnt HTML5 , CSS3 , React Js , React Native , Firebase , wordpress , react bootstrap and Bootstrap and working on JavaScript  
+I have Learnt HTML5 , CSS3 ,  React Js , React Native , Firebase , wordpress , react bootstrap and Bootstrap and working on JavaScript  
 </td></tr></table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azaanullah-khan&show_icons=true&locale=en&layout=compact" alt="azaanullah-khan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-hasaan&show_icons=true&locale=en&layout=compact" alt="muhammed-hasaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaanullah-khan&show_icons=true&locale=en" alt="azaanullah-khan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaanullah-khan&show_icons=true&locale=en" alt="muhammed-hasaan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azaanullah-khan&" alt="azaanullah-khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-hasaan&" alt="muhammed-hasaan" /></p>
 <hr />
 
 
