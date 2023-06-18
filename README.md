@@ -76,7 +76,7 @@ muhammedhasaan09@gmail.com
 <a href="https://leetcode.com/muhammedhasaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammed-hasaan" height="30" width="40" /></a>
 </p>
 
-### My Skill Set:
+### My Github Link:
 
 
 
