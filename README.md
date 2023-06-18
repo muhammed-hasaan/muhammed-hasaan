@@ -39,7 +39,7 @@ he started his career with Web development almost 2 years ago
 
 <p align="center">
 <a href="https://linkedin.com/in/muhammed-hasaan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-<a href="https://leetcode.com/muhammedhasaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammed-hasaan" height="30" width="40" /></a>
+<a href="https://leetcode.com/muhammedhasaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammed-hasaan" height="50" width="50" /></a>
 </br>
  
 ```
