@@ -12,13 +12,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
 
 
-- 🔭 I’m currently working on [**Netflix Clone Website**](https://azaanullah-khan.github.io/Netflix-Clone-Website/)
+- 🔭 I’m currently working on [**Food Panda Clone**](fd00.netlify.app)
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Ecma Script 6**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/AzaanUllah-Khan)
-
-- 📱 My Instagram Clone Website [Instello](https://github.com/AzaanUllah-Khan/Instello)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/muhammed-hasaan)
 
 - ⚡ MS WORD CLONE [Word / Azaan](https://github.com/AzaanUllah-Khan/Ms-Word)
 
