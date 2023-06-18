@@ -1,6 +1,7 @@
-<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Web+Developer+;AI+Chatbots;Dialogflow+and+Graphic+Expert+;Entrepreneur;Keynote+Speaker" alt="Typing SVG" /></div>
-
-Kashan Adnan is a Full Stack Web developer in making MERN STACK or Full Stack Website (NodeJs , ExpressJs) of highly scalable contrainerized backend with cutting edge technologies,
+<h1 align="center">Hi 👋, I'm Muhammed Hasaan</h1>
+<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Web+Developer+;Graphic+Designer;App+Developer+Web+Dsigner+;" alt="Typing SVG" /></div>
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="100%" height="400px" align="center">
+Muhammed Hasaan is a Web developer in making MERN STACK or Full Stack Website (NodeJs , ExpressJs) of highly scalable contrainerized backend with cutting edge technologies,
 he started his career with Web development almost 2 years ago
 
 Following are some notable startups Kashan Adnan had worked with:
@@ -36,12 +37,6 @@ khanzaidaboy@gmail.com
 </p>
 
 </div>
-
-
-<h1 align="center">Hi 👋, I'm Muhammed Hasaan</h1>
-
-<h3 align="center">I am a Front End Web Developer</h3>
-<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="100%" height="400px" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-hasaan" /> </p>
   <a href="https://www.linkedin.com/in/azaanullah-khan-2859bb268/">
