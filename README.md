@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammed Hasaan</h1>
 <h3 align="center">I am a Front End Web Developer</h3>
-<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="100%" align="center">
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="100%" height="100px" align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-hasaan" /> </p>
   <a href="https://www.linkedin.com/in/azaanullah-khan-2859bb268/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
