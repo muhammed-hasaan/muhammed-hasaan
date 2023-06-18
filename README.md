@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Hasaan</h1>
 <h3 align="center">I am a Front End Web Developer</h3>
-<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%" align="center">
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="100%" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azaanullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="azaanullah-khan" /> </p>
   <a href="https://www.linkedin.com/in/azaanullah-khan-2859bb268/">
