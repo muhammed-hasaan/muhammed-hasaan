@@ -1,4 +1,45 @@
+<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Web+Developer+;AI+Chatbots;Dialogflow+and+Graphic+Expert+;Entrepreneur;Keynote+Speaker" alt="Typing SVG" /></div>
+
+Kashan Adnan is a Full Stack Web developer in making MERN STACK or Full Stack Website (NodeJs , ExpressJs) of highly scalable contrainerized backend with cutting edge technologies,
+he started his career with Web development almost 2 years ago
+
+Following are some notable startups Kashan Adnan had worked with:
+
+
+<p align='center'>From 🇵🇰 with ❤️</p>
+<p align='center'>
+<img align='center' src='https://en1g1m3zkq5j0aw.m.pipedream.net'/>
+</p>
+
+<hr>
+
+<h2 align="left">Languages and Tools:</h2>
+
+<p align='center'>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb,nodejs"/>
+   <img src="https://skillicons.dev/icons?i=firebase,postman,heroku,figma,xd"/>
+</p>
+
+<hr>
+
+<h2 align="left">Contact me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/minzamam" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
+<a href="https://stackoverflow.com/users/4378475/inzamam-malik" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" height="50" width="50" alt="linkedin" /></a>
+
+```
+khanzaidaboy@gmail.com
+```
+
+</p>
+
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Muhammed Hasaan</h1>
+
 <h3 align="center">I am a Front End Web Developer</h3>
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="100%" height="400px" align="center">
 
