@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Hasaan</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Hasaan 😎😁</h1>
 <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Web+Developer+;Graphic+Designer;App+Developer+;Web+Dsigner+;" alt="Typing SVG" /></div>
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="100%" height="400px" align="center">
  Hello I am Muhammed Hasaan a Junior Front-end Developer
