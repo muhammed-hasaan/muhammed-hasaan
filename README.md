@@ -11,7 +11,7 @@
  Intensive experience in making responsive web layouts to modern
  browsers and mobile devices
 he started his career with Web development almost 2.5 years ago
-Following are some notable startups Kashan Adnan had worked with:
+Following are some notable startups Hasaan Developer had worked with:
 
 he started his career with Web development almost 2 years ago
 
