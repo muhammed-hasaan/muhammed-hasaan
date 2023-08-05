@@ -61,9 +61,9 @@ muhammedhasaan09@gmail.com
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azaanullah-khan" alt="azaanullah-khan" /></a> </p>
 
 
-- 🔭 I’m currently working on [**Food Panda Clone**](fd00.netlify.app)
+- 🔭 I’m currently working on [**facebook clone**]
 
-- 🌱 I’m currently learning **Ecma Script 6**
+- 🌱 I’m currently learning **Ecma Script React js**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/muhammed-hasaan)
 
