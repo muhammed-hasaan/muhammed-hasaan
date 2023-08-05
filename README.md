@@ -63,7 +63,7 @@ muhammedhasaan09@gmail.com
 
 - 🔭 I’m currently working on [**facebook clone**]
 
-- 🌱 I’m currently learning **Ecma Script React js**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/muhammed-hasaan)
 
