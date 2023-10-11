@@ -28,7 +28,7 @@ he started his career with Web development almost 2 years ago
 <h2 align="left">Languages and Tools:</h2>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,php,c++" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,php,cpp" />
   <img src="https://skillicons.dev/icons?i=react,react native"/>
    <img src="https://skillicons.dev/icons?i=firebase"/>
 </p>
